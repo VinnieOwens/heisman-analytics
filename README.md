@@ -65,7 +65,7 @@ All data files are in `data/`. The model runs on these six CSVs.
 
 ## Built with
 
-Power BI Desktop (matrix visuals, conditional formatting, DAX measures, a calculated summary table). Open `heisman_report.pbix` in Power BI Desktop, which runs on Windows. If it can't find the data, point it at the CSVs in `data/` under Transform data → Data source settings.
+Power BI Desktop (matrix visuals, conditional formatting, DAX measures, a calculated summary table). Open `heisman_report.pbix` in Power BI Desktop, which runs on Windows. The data is saved inside the file, so it opens and works as-is with nothing else downloaded. The CSVs in `data/` are only needed if you want to refresh it, and then you would repoint it under Transform data → Data source settings.
 
 ## Disclaimer
 
