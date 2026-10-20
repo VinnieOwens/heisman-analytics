@@ -1,0 +1,111 @@
+Team,Hex,Category,Faded_Hex,Text_Hex
+Alabama,#9E1B32,College,#E2BBC2,#FFFFFF
+Arizona State,#8C1D40,College,#DCBBC6,#FFFFFF
+Army,#000000,College,#B2B2B2,#FFFFFF
+Auburn,#DD550C,College,#F5CCB6,#000000
+BYU,#002E5D,College,#B2C0CE,#FFFFFF
+Baylor,#154734,College,#B9C8C2,#FFFFFF
+Blinn College,#0054A5,College,#B2CCE4,#FFFFFF
+Boston College,#862334,College,#DBBDC2,#FFFFFF
+Cal,#003262,College,#B2C2D0,#FFFFFF
+Chicago,#800000,College,#D9B2B2,#FFFFFF
+City College of San Francisco,#C90332,College,#EFB3C2,#FFFFFF
+Coffeyville,#CC1F31,College,#F0BCC1,#FFFFFF
+Colorado,#000000,College,#B2B2B2,#FFFFFF
+Florida,#0021A5,College,#B2BCE4,#FFFFFF
+Florida State,#782F40,College,#D6C1C6,#FFFFFF
+Georgia,#BA0C2F,College,#EAB6C1,#FFFFFF
+Houston,#C8102E,College,#EEB7C0,#FFFFFF
+Indiana,#990000,College,#E0B2B2,#FFFFFF
+Iowa,#000000,College,#B2B2B2,#FFFFFF
+Jackson State,#00264C,College,#B2BEC9,#FFFFFF
+LSU,#461D7C,College,#C8BBD8,#FFFFFF
+Louisville,#AD0000,College,#E6B2B2,#FFFFFF
+Miami (FL),#F47321,College,#FCD5BC,#000000
+Michigan,#00274C,College,#B2BEC9,#FFFFFF
+Minnesota,#7A0019,College,#D7B2BA,#FFFFFF
+Navy,#00205B,College,#B2BCCE,#FFFFFF
+Nebraska,#E41C38,College,#F7BBC3,#FFFFFF
+Notre Dame,#0C2340,College,#B6BDC6,#FFFFFF
+Ohio State,#BB0000,College,#EBB2B2,#FFFFFF
+Oklahoma,#841617,College,#DAB9B9,#FFFFFF
+Oklahoma State,#FF7300,College,#FFD5B2,#000000
+Oregon,#154733,College,#B9C8C2,#FFFFFF
+Oregon State,#DC4405,College,#F4C7B4,#000000
+Penn State,#041E42,College,#B4BCC6,#FFFFFF
+Pittsburgh,#003594,College,#B2C2DF,#FFFFFF
+Princeton,#FF8F1C,College,#FFDDBB,#000000
+SMU,#C8102E,College,#EEB7C0,#FFFFFF
+South Carolina,#73000A,College,#D5B2B6,#FFFFFF
+Stanford,#8C1515,College,#DCB9B9,#FFFFFF
+Syracuse,#D44500,College,#F2C7B2,#000000
+TCU,#4D1979,College,#CABAD7,#FFFFFF
+Texas,#BF5700,College,#ECCDB2,#FFFFFF
+Texas A&M,#500000,College,#CAB2B2,#FFFFFF
+Texas Tech,#CC0000,College,#F0B2B2,#FFFFFF
+UCLA,#2774AE,College,#BED5E7,#FFFFFF
+USC,#990000,College,#E0B2B2,#FFFFFF
+Wisconsin,#C5050C,College,#EEB4B6,#FFFFFF
+Yale,#00356B,College,#B2C2D3,#FFFFFF
+Arizona Cardinals,#97233F,NFL,#E0BDC5,#FFFFFF
+Atlanta Falcons,#A71930,NFL,#E5BAC1,#FFFFFF
+Baltimore Colts,#0057B8,NFL,#B2CDEA,#FFFFFF
+Baltimore Ravens,#241773,NFL,#BDB9D5,#FFFFFF
+Buffalo Bills,#00338D,NFL,#B2C2DD,#FFFFFF
+Carolina Panthers,#0085CA,NFL,#B2DAEF,#000000
+Chicago Bears,#0B162A,NFL,#B6B9BF,#FFFFFF
+Chicago/St. Louis Cardinals,#97233F,NFL,#E0BDC5,#FFFFFF
+Cincinnati Bengals,#FB4F14,NFL,#FECAB8,#000000
+Cleveland Browns,#311D00,NFL,#C1BBB2,#FFFFFF
+Dallas Cowboys,#041E42,NFL,#B4BCC6,#FFFFFF
+Denver Broncos,#002244,NFL,#B2BDC7,#FFFFFF
+Detroit Lions,#0076B6,NFL,#B2D6E9,#FFFFFF
+Green Bay Packers,#203731,NFL,#BCC3C1,#FFFFFF
+Houston Oilers,#28A7E1,NFL,#BEE5F6,#000000
+Houston Texans,#03202F,NFL,#B3BCC1,#FFFFFF
+Houston/Tennessee Oilers-Titans,#0C2340,NFL,#B6BDC6,#FFFFFF
+Jacksonville Jaguars,#006778,NFL,#B2D1D6,#FFFFFF
+Kansas City Chiefs,#E31837,NFL,#F7BAC3,#FFFFFF
+Las Vegas Raiders,#000000,NFL,#B2B2B2,#FFFFFF
+Los Angeles Rams,#003594,NFL,#B2C2DF,#FFFFFF
+Los Angeles/Oakland Raiders,#000000,NFL,#B2B2B2,#FFFFFF
+Miami Dolphins,#008E97,NFL,#B2DDE0,#000000
+Minnesota Vikings,#4F2683,NFL,#CABEDA,#FFFFFF
+New England Patriots,#002244,NFL,#B2BDC7,#FFFFFF
+New Orleans Saints,#D3BC8D,NFL,#F2EBDD,#000000
+New York Giants,#0B2265,NFL,#B6BDD1,#FFFFFF
+New York Jets,#125740,NFL,#B8CDC6,#FFFFFF
+Oakland Raiders,#000000,NFL,#B2B2B2,#FFFFFF
+Oakland/Los Angeles Raiders,#000000,NFL,#B2B2B2,#FFFFFF
+Philadelphia Eagles,#004C54,NFL,#B2C9CC,#FFFFFF
+Pittsburgh Steelers,#101820,NFL,#B7BABC,#FFFFFF
+San Diego Chargers,#0073CF,NFL,#B2D5F1,#FFFFFF
+San Francisco 49ers,#AA0000,NFL,#E6B2B2,#FFFFFF
+Seattle Seahawks,#69BE28,NFL,#D2ECBE,#000000
+St. Louis Rams,#003594,NFL,#B2C2DF,#FFFFFF
+Tampa Bay Buccaneers,#D50A0A,NFL,#F2B6B6,#FFFFFF
+Tennessee Titans,#0C2340,NFL,#B6BDC6,#FFFFFF
+Washington Commanders,#5A1414,NFL,#CEB8B8,#FFFFFF
+Washington Redskins,#5A1414,NFL,#CEB8B8,#FFFFFF
+BC Lions (CFL),#F26B1D,Other,#FBD3BB,#000000
+Baltimore Colts (AAFC),#0057B8,Other,#B2CDEA,#FFFFFF
+Berlin Thunder (NFL Europe),#C4A574,Other,#EDE4D5,#000000
+Boston Patriots (AFL),#002244,Other,#B2BDC7,#FFFFFF
+Calgary Stampeders (CFL),#D50032,Other,#F2B2C2,#FFFFFF
+Chicago Rockets (AAFC),#FF2400,Other,#FFBDB2,#000000
+Cleveland Browns (AAFC),#311D00,Other,#C1BBB2,#FFFFFF
+Edmonton Eskimos (CFL),#00753D,Other,#B2D6C5,#FFFFFF
+Hamburg Sea Devils (NFL Europe),#0A4D68,Other,#B6CAD2,#FFFFFF
+Houston Oilers (AFL),#28A7E1,Other,#BEE5F6,#000000
+Jacksonville Bulls (USFL),#7B1E2B,Other,#D7BCBF,#FFFFFF
+Los Angeles Dons (AAFC),#CE2029,Other,#F0BCBF,#FFFFFF
+Memphis Southmen (WFL),#CC5500,Other,#F0CCB2,#000000
+Montreal Alouettes (CFL),#A6192E,Other,#E4BAC0,#FFFFFF
+New Jersey Generals (USFL),#C8102E,Other,#EEB7C0,#FFFFFF
+New York Americans (AFL),#D9383C,Other,#F4C3C4,#FFFFFF
+New York Jets (AFL),#125740,Other,#B8CDC6,#FFFFFF
+New York Yankees (AAFC),#0C2340,Other,#B6BDC6,#FFFFFF
+Oakland Raiders (AFL),#000000,Other,#B2B2B2,#FFFFFF
+Ottawa Rough Riders (CFL),#DC143C,Other,#F4B8C4,#FFFFFF
+Pittsburgh Maulers (USFL),#FFB612,Other,#FFE9B8,#000000
+Toronto Argonauts (CFL),#4D8CC7,Other,#CADCEE,#000000
